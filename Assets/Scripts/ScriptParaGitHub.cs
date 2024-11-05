@@ -6,7 +6,7 @@ public class ScriptParaGitHub : MonoBehaviour
     //COMENTADO PAU
     void Start()
     {
-        //Codigo escrito por Javi
+        //Codigo escrito por Javi hola
     }
 
     // Update is called once per frame
